@@ -1,0 +1,16 @@
+.appbody {
+    width: 75%;
+    margin: auto;
+    background-color: #121e2b;
+    min-height: 100vh;
+}
+
+.fullbody {
+    background-image: linear-gradient(90deg, #121e2b 25%, #0b141f 25%, #0b141f 50%, #121e2b 50%, #121e2b 75%, #0b141f 75%, #0b141f 100%);
+    background-size: 40.00px 40.00px;
+    min-height: 100vh;
+}
+
+.hr-white{
+    background-color: #ddd;
+}

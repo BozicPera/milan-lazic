@@ -1,0 +1,6 @@
+.uslugeMinStyle li {
+    margin-bottom: 5px;
+    padding: 3px 0;
+    border-bottom: 1px dotted #bbbbbb;
+    list-style: none;
+}

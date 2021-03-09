@@ -1,0 +1,17 @@
+/* The following block can be included in a custom.scss */
+
+/* make the customizations */
+.navbar-nav .dropdown-menu {
+    background-color: #121e2b;
+};
+.navbar-nav .dropdown-item{
+    color: #DDD;
+    font-size: 12px;
+};
+
+.navbar-nav .nav-link {
+    font-size: 16px;
+}
+
+/* import bootstrap to set changes */
+@import "~bootstrap/scss/bootstrap";
