@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/milan-lazic/static/css/main.6a4eb6bc.chunk.css",
+    "main.js": "/milan-lazic/static/js/main.cf99be79.chunk.js",
+    "main.js.map": "/milan-lazic/static/js/main.cf99be79.chunk.js.map",
+    "runtime-main.js": "/milan-lazic/static/js/runtime-main.91849e19.js",
+    "runtime-main.js.map": "/milan-lazic/static/js/runtime-main.91849e19.js.map",
+    "static/css/2.960dafb7.chunk.css": "/milan-lazic/static/css/2.960dafb7.chunk.css",
+    "static/js/2.0a452fed.chunk.js": "/milan-lazic/static/js/2.0a452fed.chunk.js",
+    "static/js/2.0a452fed.chunk.js.map": "/milan-lazic/static/js/2.0a452fed.chunk.js.map",
+    "index.html": "/milan-lazic/index.html",
+    "static/css/2.960dafb7.chunk.css.map": "/milan-lazic/static/css/2.960dafb7.chunk.css.map",
+    "static/css/main.6a4eb6bc.chunk.css.map": "/milan-lazic/static/css/main.6a4eb6bc.chunk.css.map",
+    "static/js/2.0a452fed.chunk.js.LICENSE.txt": "/milan-lazic/static/js/2.0a452fed.chunk.js.LICENSE.txt",
+    "static/media/1.77edd91b.jpg": "/milan-lazic/static/media/1.77edd91b.jpg",
+    "static/media/2.528fa7d4.jpg": "/milan-lazic/static/media/2.528fa7d4.jpg",
+    "static/media/3.41d281bc.jpg": "/milan-lazic/static/media/3.41d281bc.jpg",
+    "static/media/4.a477ed24.jpg": "/milan-lazic/static/media/4.a477ed24.jpg",
+    "static/media/5.1cde04e8.jpg": "/milan-lazic/static/media/5.1cde04e8.jpg",
+    "static/media/semantic.min.css": "/milan-lazic/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/logo.ef100d0d.png": "/milan-lazic/static/media/logo.ef100d0d.png",
+    "static/media/lokacija.b5acfe29.png": "/milan-lazic/static/media/lokacija.b5acfe29.png",
+    "static/media/onama.c952eb12.jpg": "/milan-lazic/static/media/onama.c952eb12.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91849e19.js",
+    "static/css/2.960dafb7.chunk.css",
+    "static/js/2.0a452fed.chunk.js",
+    "static/css/main.6a4eb6bc.chunk.css",
+    "static/js/main.cf99be79.chunk.js"
+  ]
+}
